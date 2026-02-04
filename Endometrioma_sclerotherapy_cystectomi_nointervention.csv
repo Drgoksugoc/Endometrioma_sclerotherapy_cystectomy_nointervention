@@ -1,0 +1,555 @@
+﻿ID,group,age,bmi,amh,afc,infertility_yrs,bilateral,oma_size,severe_endo,months_sclero,months_cyst,protocol,stim_days,gonadotropin_dose,trigger_method,trigger_hours,oocyte_count,m2_oocytes,icsi,pn2,blastocysts,embryos_biopsied,euploid,aneuploid,transfer_done,remaining_embryos,mosaic,mosaicism_pct,clinical_preg,ectopic,miscarriage,ongoing_12w,live_birth,preterm,preeclampsia,gdm,sga,lga,nicu,gest_weeks,birth_weight,delivery_mode
+1,Cystectomy,34,24.5,2.1,13,4,No,35,No, ,5,PPOS,11,3300,Dual trigger,35,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,40.6,3489,Vaginal
+2,Cystectomy,35,25.6,1.4,9,5,Yes,54,Yes, ,5,PPOS,12,3600,Dual trigger,34,7,6,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+3,Cystectomy,31,20.1,2.8,15,1,No,54,No, ,7,PPOS,10,3000,Dual trigger,38,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+4,Cystectomy,35,22,1.5,10,4,No,30,No, ,6,PPOS,11,3300,Dual trigger,36,11,9,Yes,7,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,39.3,2528,Vaginal
+5,Cystectomy,35,26.5,1.5,8,3,No,38,No, ,6,PPOS,7,2100,Dual trigger,38,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+6,Cystectomy,34,24.9,1.1,6,3,No,35,No, ,3,Antagonist,8,2400,Dual trigger,32,9,8,No,6,3,3,1,2,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+7,Cystectomy,34,19.7,2.1,12,6,No,44,No, ,6,PPOS,12,2700,Dual trigger,32,9,8,Yes,6,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.6,2692,Vaginal
+8,Cystectomy,35,30,1.9,8,4,No,30,No, ,4,PPOS,10,2250,Dual trigger,35,11,9,Yes,7,4,4,3,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+9,Cystectomy,36,25.9,2.1,11,0,No,48,No, ,3,PPOS,9,2025,Dual trigger,39,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+10,Cystectomy,35,23.8,2.4,14,3,No,42,No, ,5,PPOS,12,2700,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,3233,Vaginal
+11,Cystectomy,33,22.1,1.9,11,4,Yes,52,Yes, ,6,PPOS,10,2250,Dual trigger,35,7,6,Yes,4,2,2,0,1,No,0,1,100,No, ,No,No,No, , , , , , , , , 
+12,Cystectomy,36,19.5,3.5,15,3,No,30,No, ,5,PPOS,10,2250,Dual trigger,36,6,5,Yes,4,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+13,Cystectomy,38,27,1.7,9,0,No,38,No, ,4,PPOS,9,2700,hCG trigger,38,10,8,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+14,Cystectomy,40,25.4,.7,9,5,No,37,No, ,8,PPOS,14,3150,Dual trigger,34,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+15,Cystectomy,32,18.6,3.3,15,3,No,51,No, ,8,PPOS,11,3300,Dual trigger,34,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+16,Cystectomy,31,30.5,2.1,10,3,Yes,30,Yes, ,3,PPOS,10,3000,Dual trigger,37,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.1,3365,Cesarean
+17,Cystectomy,39,26.2,1.6,9,2,No,36,No, ,6,PPOS,11,3300,Dual trigger,35,4,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38,3918,Cesarean
+18,Cystectomy,33,23.8,1.5,10,0,No,34,No, ,6,PPOS,11,3300,Dual trigger,35,2,2,No,2,2,2,1,1,Yes,0,0,100,No,No,No,No,No, , , , , , , , , 
+19,Cystectomy,35,26.1,1.8,10,2,No,31,No, ,6,PPOS,11,3300,Dual trigger,35,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.6,3009,Cesarean
+20,Cystectomy,34,26.7,1.5,7,1,No,30,No, ,5,PPOS,10,2250,Dual trigger,37,12,10,Yes,8,4,2,1,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+21,Cystectomy,41,26.5,.8,3,7,No,30,No, ,3,PPOS,10,3000,Dual trigger,36,6,5,No,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+22,Cystectomy,29,23.8,3.3,15,4,No,38,No, ,5,PPOS,8,2400,Dual trigger,34,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,Yes,No,No,37.6,3378,Vaginal
+23,Cystectomy,36,22,1.8,10,6,No,30,No, ,3,PPOS,7,2100,Dual trigger,34,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+24,Cystectomy,35,28.6,2.1,8,2,Yes,52,Yes, ,6,PPOS,8,2400,Dual trigger,37,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.2,3541,Cesarean
+25,Cystectomy,36,27.9,2.3,11,0,No,32,No, ,8,PPOS,9,2025,Dual trigger,37,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,40.4,3254,Cesarean
+26,Cystectomy,35,23.2,1.7,8,4,No,30,No, ,3,PPOS,9,2700,Dual trigger,35,5,4,No,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,37.6,3542,Cesarean
+27,Cystectomy,33,27.5,2.6,19,0,No,44,No, ,3,PPOS,11,2475,Dual trigger,36,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,Yes,No,No, , , , , , , , , 
+28,Cystectomy,34,25.5,1.3,5,2,Yes,37,Yes, ,4,PPOS,14,4200,Dual trigger,37,7,6,Yes,4,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,37.4,3018,Cesarean
+29,Cystectomy,33,24.7,3.1,17,3,No,30,No, ,4,PPOS,10,2250,Dual trigger,36,8,7,Yes,5,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+30,Cystectomy,34,20.5,2.8,13,5,Yes,42,Yes, ,3,PPOS,11,3300,Dual trigger,39,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+31,Cystectomy,37,18,1.9,10,3,No,47,No, ,8,PPOS,9,2700,Dual trigger,35,4,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+32,Cystectomy,30,24.9,2.7,16,6,Yes,45,Yes, ,3,PPOS,12,2700,Dual trigger,35,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,2875,Vaginal
+33,Cystectomy,35,26.9,2.1,10,0,Yes,31,Yes, ,5,PPOS,8,2400,Dual trigger,37,6,5,Yes,4,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+34,Cystectomy,37,25.1,1.8,6,0,Yes,58,Yes, ,8,PPOS,9,2700,Dual trigger,38,3,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+35,Cystectomy,34,18,1.7,10,3,No,30,No, ,6,PPOS,9,2025,Dual trigger,35,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,Yes,No,No,No,Yes,36.6,2759,Vaginal
+36,Cystectomy,35,23.7,3,15,3,No,32,No, ,4,PPOS,10,2250,Dual trigger,38,12,10,No,7,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+37,Cystectomy,30,31.5,3.5,14,6,No,30,No, ,6,PPOS,11,3300,Dual trigger,35,13,11,Yes,8,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+38,Cystectomy,36,18.9,1.8,7,3,Yes,33,Yes, ,4,PPOS,10,3000,Dual trigger,33,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,Yes,No,No,No,No,39.3,2987,Vaginal
+39,Cystectomy,31,24.8,2.6,8,0,Yes,39,Yes, ,4,PPOS,9,2025,Dual trigger,36,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+40,Cystectomy,35,29.1,2.3,11,0,No,30,No, ,6,PPOS,11,3300,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+41,Cystectomy,36,31.3,1.2,6,0,No,53,No, ,5,PPOS,10,3000,Dual trigger,36,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,Yes, , ,No,40.5,3075,Vaginal
+42,Cystectomy,34,29.9,1.3,9,2,No,30,No, ,6,PPOS,7,1575,Dual trigger,37,10,8,Yes,6,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,3313,Cesarean
+43,Cystectomy,35,20.3,2.1,12,3,No,54,No, ,8,PPOS,12,3600,hCG trigger,38,6,5,Yes,4,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+44,Cystectomy,38,18.5,.5,3,0,No,39,No, ,5,PPOS,10,3000,Dual trigger,34,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+45,Cystectomy,33,26.2,2,9,5,No,32,No, ,3,PPOS,10,2250,Dual trigger,35,9,8,No,6,3,2,1,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+46,Cystectomy,32,21.8,2.6,13,6,No,32,No, ,6,PPOS,11,3300,Dual trigger,37,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+47,Cystectomy,28,30.6,4.6,25,3,Yes,30,Yes, ,3,PPOS,10,3000,Dual trigger,35,11,9,No,6,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+48,Cystectomy,38,23.2,1.7,7,2,Yes,36,Yes, ,5,PPOS,11,3300,Dual trigger,38,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+49,Cystectomy,35,28.8,1.8,8,4,Yes,53,Yes, ,8,Antagonist,9,2025,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No, ,No,No,No, , , , , , , , , 
+50,Cystectomy,32,24.2,2,11,3,No,48,No, ,8,PPOS,11,3300,Dual trigger,37,8,7,Yes,5,2,2,0,2,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+51,Cystectomy,38,22.4,1.5,10,0,No,46,No, ,7,PPOS,9,2025,Dual trigger,35,4,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+52,Cystectomy,36,22.1,.9,3,2,No,30,No, ,3,PPOS,11,3300,Dual trigger,36,3,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+53,Cystectomy,33,21.4,2.1,11,4,No,30,No, ,3,PPOS,8,1800,Dual trigger,34,8,7,Yes,5,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+54,Cystectomy,36,18.5,1.7,6,4,No,49,No, ,6,PPOS,10,3000,Dual trigger,35,5,4,Yes,3,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+55,Cystectomy,36,25.7,1.2,3,1,No,61,Yes, ,7,PPOS,10,3000,Dual trigger,34,5,4,Yes,3,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+56,Cystectomy,41,25.3,.7,4,3,No,42,No, ,3,PPOS,10,2250,Dual trigger,35,6,5,No,4,3,3,2,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.3,2610,Vaginal
+57,Cystectomy,36,29.2,2,11,1,Yes,30,Yes, ,8,PPOS,11,2475,Dual trigger,36,9,8,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+58,Cystectomy,30,25.3,2.1,13,4,Yes,38,Yes, ,7,PPOS,11,2475,Dual trigger,38,11,9,Yes,6,3,3,1,1,Yes,0,1,50,Yes, ,Yes,No,No, , , , , , , , , 
+59,Cystectomy,36,27,.7,6,2,No,30,No, ,5,PPOS,8,1800,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+60,Cystectomy,36,19.7,2.4,16,0,No,35,No, ,4,PPOS,11,2475,Dual trigger,36,4,3,No,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+61,Cystectomy,38,23.9,1.9,10,3,No,43,No, ,7,PPOS,10,2250,hCG trigger,36,11,10,Yes,8,4,3,2,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.4,3513,Vaginal
+62,Cystectomy,35,26,1.9,11,2,Yes,52,Yes, ,5,PPOS,9,2025,Dual trigger,36,11,9,Yes,7,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.4,3657,Cesarean
+63,Cystectomy,34,18.2,1.9,11,0,Yes,40,Yes, ,3,Antagonist,10,3000,Dual trigger,38,2,2,Yes,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+64,Cystectomy,35,24.3,.9,5,2,No,48,No, ,5,PPOS,8,2400,Dual trigger,34,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+65,Cystectomy,34,19.5,2.8,10,4,No,38,No, ,4,PPOS,10,3000,Dual trigger,32,5,4,No,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+66,Cystectomy,36,22.5,2.6,12,2,No,66,Yes, ,3,PPOS,11,3300,Dual trigger,34,5,4,No,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+67,Cystectomy,37,20.4,3.1,18,3,No,56,No, ,4,PPOS,11,2475,Dual trigger,41,7,6,No,5,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+68,Cystectomy,34,22.1,2.8,15,0,No,53,No, ,3,PPOS,8,2400,hCG trigger,34,9,8,Yes,6,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,41.1,3347,Cesarean
+69,Cystectomy,31,24.9,2.5,11,5,Yes,59,Yes, ,3,PPOS,10,3000,Dual trigger,37,10,9,Yes,6,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+70,Cystectomy,35,22.4,1.5,7,2,No,30,No, ,8,PPOS,8,2400,Dual trigger,35,7,6,Yes,5,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+71,Cystectomy,38,23.9,2.2,10,5,No,32,No, ,8,PPOS,12,3600,hCG trigger,35,2,2,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+72,Cystectomy,33,21.6,3.4,19,4,No,38,No, ,7,PPOS,12,3600,Dual trigger,36,12,10,Yes,7,3,2,1,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.5,3682,Cesarean
+73,Cystectomy,35,26.1,1.9,7,0,No,41,No, ,7,PPOS,10,2250,Dual trigger,37,11,10,No,7,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+74,Cystectomy,37,23.7,3.7,15,3,No,33,No, ,5,PPOS,7,2100,Dual trigger,36,9,8,Yes,6,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+75,Cystectomy,37,28,2.8,15,3,Yes,39,Yes, ,3,PPOS,10,2250,hCG trigger,34,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+76,Cystectomy,30,25.4,2.3,9,2,Yes,51,Yes, ,3,Antagonist,7,1575,Dual trigger,37,8,7,Yes,6,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+77,Cystectomy,37,29.7,.7,3,0,No,30,No, ,6,PPOS,9,2700,Dual trigger,38,6,5,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+78,Cystectomy,33,20,2.4,14,1,No,51,No, ,8,PPOS,10,2250,Dual trigger,37,10,9,Yes,7,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+79,Cystectomy,30,27.7,2.5,12,4,No,38,No, ,8,PPOS,12,3600,hCG trigger,35,6,5,No,4,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+80,Cystectomy,37,26.3,1.6,6,1,No,41,No, ,6,PPOS,9,2700,Dual trigger,36,4,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+81,Cystectomy,31,22.7,2.9,14,2,Yes,30,Yes, ,8,PPOS,12,2700,Dual trigger,38,7,6,Yes,4,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+82,Cystectomy,34,23.1,1.8,11,0,Yes,46,Yes, ,5,PPOS,10,3000,Dual trigger,38,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+83,Cystectomy,37,21.6,1.5,11,3,No,37,No, ,6,PPOS,12,2700,Dual trigger,36,4,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+84,Cystectomy,33,28.1,2.5,13,6,No,30,No, ,3,PPOS,9,2700,Dual trigger,37,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+85,Cystectomy,32,22.8,1.8,5,0,Yes,30,Yes, ,5,PPOS,9,2700,Dual trigger,36,5,4,No,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+86,Cystectomy,35,24.8,3.4,17,2,No,33,No, ,3,PPOS,14,3150,Dual trigger,35,11,10,Yes,7,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.3,2454,Vaginal
+87,Cystectomy,36,24.7,4.1,20,1,No,47,No, ,7,PPOS,8,1800,hCG trigger,38,8,7,Yes,5,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.6,3529,Cesarean
+88,Cystectomy,31,20.4,2.7,13,3,Yes,50,Yes, ,4,PPOS,12,3600,Dual trigger,37,3,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+89,Cystectomy,38,20.6,1.2,5,3,No,30,No, ,3,PPOS,10,2250,Dual trigger,38,8,7,No,5,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+90,Cystectomy,30,32.4,3.5,17,2,No,43,No, ,6,Antagonist,10,3000,Dual trigger,38,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,39,2718,Vaginal
+91,Cystectomy,34,24.1,1.3,6,3,No,42,No, ,6,PPOS,9,2700,Dual trigger,39,10,9,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+92,Cystectomy,33,22.3,3.1,14,5,Yes,35,Yes, ,5,PPOS,13,3900,Dual trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+93,Cystectomy,38,31.3,1.9,16,3,Yes,36,Yes, ,3,PPOS,12,2700,Dual trigger,36,9,8,Yes,6,4,4,3,1,Yes,2,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+94,Cystectomy,33,19.5,.5,3,5,No,30,No, ,5,PPOS,11,3300,Dual trigger,37,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,3730,Cesarean
+95,Cystectomy,35,21.6,1.3,9,2,No,30,No, ,8,PPOS,8,1800,Dual trigger,35,10,9,No,7,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,3427,Cesarean
+96,Cystectomy,33,30.7,2.5,14,3,No,39,No, ,6,PPOS,12,3600,Dual trigger,32,13,11,No,8,4,1,0,1,No,3,0,0,No,No,No,No,No, , , , , , , , , 
+97,Cystectomy,34,23.7,2,14,3,No,33,No, ,6,Antagonist,10,2250,Dual trigger,37,7,6,No,5,3,2,1,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+98,Cystectomy,36,27.4,1.2,7,4,No,30,No, ,4,PPOS,10,3000,Dual trigger,35,9,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.3,3341,Vaginal
+99,Cystectomy,34,22.3,2.6,13,2,No,38,No, ,5,PPOS,11,2475,Dual trigger,34,11,9,No,7,3,3,2,1,Yes,1,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+100,Cystectomy,37,27.7,.8,3,4,No,44,No, ,6,PPOS,12,3600,Dual trigger,37,3,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+101,Cystectomy,33,26.5,2.8,17,5,No,61,Yes, ,3,PPOS,7,1575,Dual trigger,36,12,11,Yes,9,4,4,3,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+102,Cystectomy,34,25.5,1.7,5,2,Yes,51,Yes, ,6,PPOS,8,1800,Dual trigger,36,6,5,Yes,4,3,2,1,1,Yes,1,0,100,No,No,No,No,No, , , , , , , , , 
+103,Cystectomy,34,27.1,2.9,14,2,Yes,46,Yes, ,5,PPOS,11,2475,Dual trigger,37,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.5,3367,Vaginal
+104,Cystectomy,33,23.4,2.3,15,5,No,34,No, ,7,PPOS,11,3300,Dual trigger,35,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,Yes,No,No,40.6,3498,Cesarean
+105,Cystectomy,35,25.4,1.8,9,3,Yes,30,Yes, ,7,PPOS,9,2700,Dual trigger,34,7,6,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+106,Cystectomy,31,20.3,2.7,15,0,No,40,No, ,7,PPOS,8,2400,Dual trigger,39,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No, ,No,No,No, , , , , , , , , 
+107,Cystectomy,37,26.6,1.7,10,1,No,58,No, ,8,PPOS,8,1800,Dual trigger,37,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,41.1,3147,Vaginal
+108,Cystectomy,34,25.5,2,10,1,No,34,No, ,5,PPOS,11,3300,Dual trigger,37,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+109,Cystectomy,33,24.4,1.9,9,2,No,30,No, ,6,PPOS,12,3600,Dual trigger,35,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,2906,Vaginal
+110,Cystectomy,34,25.5,1.2,4,4,No,54,No, ,3,Antagonist,9,2025,Dual trigger,35,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+111,Cystectomy,35,30.3,2.3,13,3,No,30,No, ,8,PPOS,11,3300,hCG trigger,36,3,2,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+112,Cystectomy,31,21.7,3.1,16,2,No,30,No, ,4,PPOS,13,3900,Dual trigger,35,3,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+113,Cystectomy,30,25.8,2.3,13,3,No,38,No, ,3,PPOS,11,3300,Dual trigger,35,10,9,Yes,7,3,3,2,1,Yes,1,0,0,Yes, ,Yes,No,No, , , , , , , , , 
+114,Cystectomy,38,18,1.9,9,1,Yes,36,Yes, ,5,PPOS,12,3600,Dual trigger,34,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+115,Cystectomy,36,20.4,1.2,5,6,No,32,No, ,4,PPOS,13,3900,Dual trigger,38,9,8,No,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+116,Cystectomy,33,23.3,2.2,11,0,No,45,No, ,5,Antagonist,14,4200,Dual trigger,38,4,3,Yes,2,2,2,0,1,No,0,1,100,No,No,No,No,No, , , , , , , , , 
+117,Cystectomy,37,27.2,.8,4,4,No,30,No, ,3,PPOS,11,3300,Dual trigger,35,5,4,No,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+118,Cystectomy,33,21.7,2.3,16,3,No,47,No, ,8,PPOS,11,2475,Dual trigger,35,4,4,Yes,3,2,2,1,1,Yes,0,0,100,No,No,No,No,No, , , , , , , , , 
+119,Cystectomy,37,22,1.3,9,0,No,30,No, ,3,PPOS,9,2025,Dual trigger,37,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.6,3674,Cesarean
+120,Cystectomy,34,22.4,1.2,4,3,No,43,No, ,4,Antagonist,10,3000,Dual trigger,34,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.2,3702,Vaginal
+121,Cystectomy,35,21.8,1.9,4,1,Yes,41,Yes, ,7,PPOS,9,2025,Dual trigger,39,5,5,No,4,3,1,0,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+122,Cystectomy,32,23.1,1.6,4,0,No,43,No, ,8,PPOS,10,3000,Dual trigger,36,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+123,Cystectomy,31,22.7,2.2,10,2,No,47,No, ,5,PPOS,14,3150,Dual trigger,36,11,10,Yes,8,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.6,2795,Cesarean
+124,Cystectomy,31,19.9,2.4,12,3,No,30,No, ,8,PPOS,12,2700,Dual trigger,34,7,6,No,4,3,3,0,1,No,0,2,100,No,No,No,No,No, , , , , , , , , 
+125,Cystectomy,32,25.6,3.1,14,2,No,45,No, ,3,PPOS,12,3600,Dual trigger,34,6,5,No,4,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+126,Cystectomy,30,27.7,2.7,10,3,No,48,No, ,6,PPOS,13,3900,hCG trigger,35,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+127,Cystectomy,31,28.2,2.3,12,5,No,36,No, ,5,PPOS,10,3000,Dual trigger,40,11,9,No,6,3,3,2,1,Yes,1,0,0,No, ,No,No,No, , , , , , , , , 
+128,Cystectomy,33,30.3,2.3,9,4,No,41,No, ,4,PPOS,9,2025,Dual trigger,37,8,7,Yes,5,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+129,Cystectomy,32,29.5,2.7,13,3,No,38,No, ,6,PPOS,10,3000,Dual trigger,36,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+130,Cystectomy,34,24.1,2.9,13,3,No,49,No, ,4,PPOS,9,2025,Dual trigger,37,8,7,No,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,38.3,3109,Vaginal
+131,Cystectomy,32,26.8,3,16,3,No,35,No, ,6,PPOS,13,2925,Dual trigger,36,9,8,Yes,6,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.6,2779,Vaginal
+132,Cystectomy,34,28.2,.7,6,4,No,30,No, ,8,PPOS,10,2250,Dual trigger,36,6,5,Yes,4,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,3385,Vaginal
+133,Cystectomy,33,24,1.4,8,1,No,45,No, ,5,Antagonist,8,2400,Dual trigger,37,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+134,Cystectomy,36,24.2,1.6,9,6,No,33,No, ,3,PPOS,12,2700,Dual trigger,37,6,5,Yes,4,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+135,Cystectomy,32,20.4,2.1,13,0,Yes,39,Yes, ,5,PPOS,9,2700,Dual trigger,35,8,7,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+136,Cystectomy,33,21.5,3.1,16,3,Yes,30,Yes, ,3,PPOS,11,3300,Dual trigger,38,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+137,Cystectomy,35,25.7,3.1,15,2,No,44,No, ,3,PPOS,9,2700,Dual trigger,34,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+138,Cystectomy,36,27.1,1.7,8,2,No,43,No, ,3,Antagonist,10,2250,Dual trigger,37,7,6,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+139,No intervention,35,28,1.6,13,2,No,30,No, , ,PPOS,10,3000,Dual trigger,33,2,2,No,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+140,No intervention,34,20.6,2,11,2,No,43,No, , ,PPOS,14,4200,Dual trigger,34,8,7,No,5,3,3,2,1,Yes,1,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+141,No intervention,32,30.1,1.9,8,3,No,34,No, , ,PPOS,9,2700,Dual trigger,36,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No, ,No,No,No, , , , , , , , , 
+142,No intervention,32,29.7,2,8,1,Yes,52,Yes, , ,PPOS,10,2250,hCG trigger,35,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,36.6,3875,Vaginal
+143,No intervention,34,23.5,1.6,9,2,No,31,No, , ,PPOS,12,3600,Dual trigger,37,8,7,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+144,No intervention,34,23.5,1.1,7,0,Yes,57,Yes, , ,PPOS,10,3000,Dual trigger,35,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.6,2906,Cesarean
+145,No intervention,34,19.1,1.7,6,2,No,42,No, , ,PPOS,11,3300,Dual trigger,39,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+146,No intervention,29,21.4,4.1,23,3,No,48,No, , ,PPOS,9,2025,Dual trigger,38,6,5,Yes,4,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes, , , , , , ,38.3,3235,Cesarean
+147,No intervention,36,22,.5,3,0,No,44,No, , ,PPOS,12,2700,Dual trigger,38,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No, ,No,No,No, , , , , , , , , 
+148,No intervention,34,23.3,1.8,8,5,No,50,No, , ,PPOS,10,2250,Dual trigger,35,8,6,No,4,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+149,No intervention,36,21,.3,3,0,No,52,No, , ,PPOS,12,3200,Dual trigger,38,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No, ,No,No,No, , , , , , , , , 
+150,No intervention,32,28.8,2.4,13,1,No,30,No, , ,PPOS,10,3000,Dual trigger,37,2,2,No,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+151,No intervention,34,20.2,2.5,12,4,Yes,40,Yes, , ,PPOS,10,3000,Dual trigger,36,3,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+152,No intervention,32,25.7,1.4,7,0,No,30,No, , ,PPOS,10,2250,Dual trigger,35,7,6,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+153,No intervention,29,22.9,4.5,24,3,No,67,Yes, , ,PPOS,10,3000,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes, , , , , , ,38.6,3102,Vaginal
+154,No intervention,38,24.8,.6,5,11,Yes,49,Yes, , ,PPOS,10,2250,Dual trigger,38,8,7,Yes,6,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+155,No intervention,35,29,1.5,6,3,No,45,No, , ,PPOS,13,2925,Dual trigger,35,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+156,No intervention,42,31.9,.5,4,3,No,55,No, , ,PPOS,9,2700,Dual trigger,35,5,4,No,3,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+157,No intervention,34,25.1,1.8,12,4,No,35,No, , ,PPOS,7,2100,Dual trigger,31,2,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.5,3405,Vaginal
+158,No intervention,39,18.4,.7,5,3,No,44,No, , ,PPOS,10,2250,hCG trigger,38,3,3,Yes,2,1,1,1,0,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,40.6,2767,Cesarean
+159,No intervention,31,23,2.1,9,7,No,37,No, , ,PPOS,10,2250,Dual trigger,37,3,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+160,No intervention,33,24.6,3,14,0,No,41,No, , ,PPOS,14,3150,Dual trigger,31,4,4,No,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+161,No intervention,33,22.5,2.2,10,5,Yes,30,Yes, , ,PPOS,10,2250,Dual trigger,37,11,9,Yes,7,4,4,3,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,2921,Vaginal
+162,No intervention,34,24,1.9,7,1,No,51,No, , ,PPOS,8,1800,Dual trigger,37,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+163,No intervention,30,33.5,2.4,12,3,No,30,No, , ,PPOS,12,3600,Dual trigger,34,9,8,Yes,5,3,1,0,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+164,No intervention,34,21,2.2,9,0,No,52,No, , ,Antagonist,10,3000,Dual trigger,36,8,8,Yes,7,6,4,3,1,Yes,4,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,2980,Vaginal
+165,No intervention,35,26.1,1.2,3,5,Yes,38,Yes, , ,Antagonist,9,2700,Dual trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+166,No intervention,33,25.9,1.5,9,3,No,38,No, , ,PPOS,9,2700,Dual trigger,37,8,7,Yes,5,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+167,No intervention,35,24.8,1,7,6,Yes,43,No, , ,PPOS,10,2250,Dual trigger,38,8,7,Yes,5,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+168,No intervention,33,29.7,2.2,12,0,No,41,No, , ,PPOS,9,2700,Dual trigger,39,9,7,Yes,5,3,3,2,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,37.4,3260,Cesarean
+169,No intervention,35,21.2,1.8,7,0,No,56,No, , ,PPOS,14,4200,Dual trigger,35,9,7,Yes,5,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+170,No intervention,35,26.5,1.8,9,5,No,50,No, , ,PPOS,7,2100,Dual trigger,38,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+171,No intervention,36,27.2,1.2,7,5,Yes,38,Yes, , ,PPOS,9,2700,Dual trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+172,No intervention,33,20,1.9,8,1,Yes,51,Yes, , ,Antagonist,10,2250,Dual trigger,38,11,10,Yes,8,4,3,2,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+173,No intervention,34,22.7,2.6,13,0,No,45,No, , ,PPOS,12,3600,hCG trigger,35,2,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,39.2,3104,Vaginal
+174,No intervention,32,24.5,2.6,11,1,No,56,No, , ,Antagonist,10,2250,Dual trigger,34,8,7,Yes,5,3,3,2,1,Yes,1,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+175,No intervention,35,26.1,1,7,0,No,39,No, , ,Antagonist,10,3000,Dual trigger,36,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+176,No intervention,34,27.2,2.8,14,3,Yes,50,Yes, , ,PPOS,7,2100,Dual trigger,38,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+177,No intervention,35,29.7,1.6,10,2,No,30,No, , ,PPOS,10,3000,Dual trigger,33,2,2,No,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+178,No intervention,32,23.6,2.2,14,6,Yes,37,No, , ,PPOS,10,3000,Dual trigger,38,11,9,No,7,4,4,3,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.6,3654,Cesarean
+179,No intervention,30,19.1,2,10,1,Yes,43,Yes, , ,PPOS,11,3300,Dual trigger,36,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes, , , , , , ,38,3459,Vaginal
+180,No intervention,30,21.9,2,12,4,No,30,No, , ,PPOS,14,4200,Dual trigger,35,4,3,Yes,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+181,No intervention,35,21.6,1.5,6,3,No,49,No, , ,Antagonist,10,3000,Dual trigger,36,7,6,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+182,No intervention,33,22.5,1.9,11,5,No,48,No, , ,PPOS,9,2700,Dual trigger,35,7,6,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+183,No intervention,34,22.5,1.6,12,5,No,62,Yes, , ,Antagonist,7,2200,Dual trigger,36,4,3,No,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+184,No intervention,31,24.4,3,13,0,No,43,No, , ,Antagonist,8,2400,Dual trigger,39,3,3,Yes,2,1,1,1,0,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.5,3023,Vaginal
+185,No intervention,29,18.8,2.2,11,5,Yes,31,Yes, , ,PPOS,10,3000,Dual trigger,37,12,10,Yes,7,3,3,2,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,39.2,2980,Vaginal
+186,No intervention,34,27,1.2,5,3,No,61,Yes, , ,PPOS,11,3300,hCG trigger,38,7,6,No,4,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+187,No intervention,32,23,2.7,10,3,No,51,No, , ,Antagonist,10,2250,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+188,No intervention,35,21.6,1.7,11,5,No,30,No, , ,PPOS,13,3900,Dual trigger,35,7,6,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.3,4130,Vaginal
+189,No intervention,36,18,2.5,10,6,No,30,No, , ,PPOS,12,2700,Dual trigger,37,9,8,Yes,6,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,36.6,2767,Cesarean
+190,No intervention,38,28.5,1.5,8,3,No,45,No, , ,PPOS,13,2925,Dual trigger,35,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+191,No intervention,34,25.7,2.6,11,0,No,55,No, , ,Antagonist,12,3600,hCG trigger,35,2,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,40.2,3200,Vaginal
+192,No intervention,32,28.8,2.4,14,1,No,30,No, , ,PPOS,10,3000,Dual trigger,37,2,2,No,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+193,No intervention,30,23.5,2.1,14,4,Yes,30,Yes, , ,PPOS,11,2475,Dual trigger,35,9,7,Yes,5,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.6,3568,Vaginal
+194,No intervention,38,18.2,1.5,6,6,No,74,Yes, , ,PPOS,8,2400,Dual trigger,37,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+195,No intervention,31,27,1.5,10,1,No,45,No, , ,Antagonist,14,4200,Dual trigger,38,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,36.6,3275,Vaginal
+196,No intervention,34,21.9,1.4,9,2,No,42,No, , ,PPOS,10,3000,Dual trigger,37,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.6,3137,Cesarean
+197,No intervention,29,23,2.2,9,3,Yes,45,No, , ,PPOS,10,3000,Dual trigger,38,11,10,No,7,4,4,3,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.6,3450,Cesarean
+198,No intervention,36,27,2.1,11,0,No,44,No, , ,PPOS,9,2700,Dual trigger,35,6,5,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+199,No intervention,37,22,.7,6,4,No,30,No, , ,PPOS,14,4200,Dual trigger,37,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+200,No intervention,36,28.3,1.5,4,1,No,59,No, , ,PPOS,8,1800,Dual trigger,36,8,7,No,5,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes, , , , , , ,39,3004,Vaginal
+201,No intervention,38,20.7,.6,4,4,No,30,No, , ,Antagonist,14,4200,Dual trigger,37,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+202,No intervention,40,22,.8,4,0,No,44,No, , ,PPOS,12,2700,Dual trigger,38,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No, ,No,No,No, , , , , , , , , 
+203,No intervention,34,20.6,2.6,10,8,Yes,30,Yes, , ,PPOS,7,2100,Dual trigger,35,6,5,Yes,4,3,3,2,1,Yes,1,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+204,No intervention,35,18.1,1.9,15,4,No,39,No, , ,PPOS,11,2475,hCG trigger,37,12,10,Yes,7,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,36.6,2868,Vaginal
+205,No intervention,36,26.9,.8,3,0,No,51,No, , ,PPOS,12,2700,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+206,No intervention,33,23.9,2.7,12,1,No,30,No, , ,PPOS,10,2250,Dual trigger,36,8,8,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+207,No intervention,35,28.3,2.5,12,1,No,54,No, , ,PPOS,10,1800,Dual trigger,36,8,6,No,6,4,3,2,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.5,2992,Vaginal
+208,No intervention,33,22.1,2.6,14,2,No,30,No, , ,PPOS,10,2250,Dual trigger,38,6,5,Yes,4,3,3,1,1,Yes,0,1,50,No,No,No,No,No, , , , , , , , , 
+209,No intervention,29,18.5,2.9,15,3,No,30,No, , ,PPOS,10,3000,Dual trigger,35,15,12,Yes,10,5,3,2,1,Yes,3,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.1,3214,Cesarean
+210,No intervention,29,29.4,2.7,16,3,No,31,No, , ,PPOS,12,2700,Dual trigger,37,10,9,Yes,7,3,3,1,1,Yes,0,1,33.3,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,37.6,3739,Vaginal
+211,No intervention,36,20.5,1.5,7,3,No,47,No, , ,PPOS,13,2925,Dual trigger,34,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes, , , , , , ,37.1,2870,Vaginal
+212,No intervention,36,20.7,1.3,7,1,No,35,No, , ,PPOS,12,2700,Dual trigger,34,4,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+213,No intervention,36,23,.9,3,2,No,54,No, , ,PPOS,12,3600,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes, ,Yes,No,No, , , , , , , , , 
+214,No intervention,33,32.1,2,9,0,No,30,No, , ,PPOS,8,1800,Dual trigger,42,12,11,Yes,8,4,4,2,1,Yes,1,1,25,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,38.6,2817,Vaginal
+215,No intervention,36,24,1.1,3,1,No,36,No, , ,Antagonist,12,3600,Dual trigger,35,4,3,No,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+216,No intervention,34,23.5,3.8,22,4,No,51,No, , ,PPOS,10,3000,Dual trigger,36,12,10,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,40.6,3424,Vaginal
+217,No intervention,37,24.5,1.1,6,0,No,38,No, , ,PPOS,10,3000,hCG trigger,34,4,4,Yes,3,1,1,1,0,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.1,3650,Vaginal
+218,No intervention,34,25.1,1.8,8,7,No,36,No, , ,PPOS,7,2100,hCG trigger,31,2,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.5,3873,Vaginal
+219,No intervention,31,23.3,1.8,8,0,No,52,No, , ,Antagonist,12,3600,Dual trigger,38,8,6,Yes,4,4,4,1,3,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.3,2948,Cesarean
+220,No intervention,28,27.4,2.5,12,1,No,42,No, , ,PPOS,9,2025,Dual trigger,36,7,6,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+221,No intervention,32,24.1,2,5,1,No,43,No, , ,PPOS,9,2025,Dual trigger,34,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,39,3686,Vaginal
+222,No intervention,33,19.5,.9,4,3,Yes,49,Yes, , ,PPOS,9,2700,Dual trigger,34,6,5,No,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+223,No intervention,36,19.8,1.4,7,7,Yes,44,Yes, , ,PPOS,9,2700,Dual trigger,35,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+224,No intervention,33,20,.7,3,2,Yes,50,Yes, , ,PPOS,9,2700,Dual trigger,34,6,5,No,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+225,No intervention,36,20.4,1.8,9,0,No,56,No, , ,PPOS,10,3000,Dual trigger,36,9,7,Yes,7,4,3,2,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.2,3283,Vaginal
+226,No intervention,35,19.2,1.6,8,4,No,55,No, , ,PPOS,13,2925,Dual trigger,35,9,7,Yes,5,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+227,No intervention,30,24.5,2.4,11,0,No,30,No, , ,PPOS,7,2100,Dual trigger,40,11,9,Yes,7,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+228,No intervention,36,26,1.09,4,5,Yes,30,Yes, , ,PPOS,12,3600,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,2867,Vaginal
+229,No intervention,32,18,2.6,12,5,Yes,41,Yes, , ,PPOS,10,3000,Dual trigger,36,3,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+230,No intervention,30,24.6,2.1,10,2,No,55,No, , ,PPOS,11,2475,Dual trigger,37,13,8,Yes,6,4,4,3,1,Yes,2,0,0,Yes,No,No,Yes,Yes, , , , , , ,41.1,2905,Cesarean
+231,No intervention,29,19,3.2,14,5,Yes,31,Yes, , ,PPOS,10,3000,Dual trigger,37,10,8,Yes,6,3,3,2,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.3,3000,Vaginal
+232,No intervention,33,21.4,2.9,14,0,No,42,No, , ,PPOS,13,3900,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+233,No intervention,34,20,1.6,9,5,No,62,Yes, , ,PPOS,8,2100,Dual trigger,36,4,3,No,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+234,No intervention,36,19.7,3.6,18,1,No,37,No, , ,PPOS,10,3000,Dual trigger,37,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+235,No intervention,36,25,.9,3,1,No,36,No, , ,PPOS,12,3600,Dual trigger,35,4,4,No,3,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+236,No intervention,35,25.1,2.4,14,1,No,36,No, , ,PPOS,10,3000,Dual trigger,35,3,3,No,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+237,No intervention,36,24.6,.5,3,2,Yes,41,No, , ,PPOS,11,3300,hCG trigger,35,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.4,2728,Cesarean
+238,No intervention,42,25.8,.6,4,6,No,36,No, , ,PPOS,11,3300,Dual trigger,35,6,5,Yes,4,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+239,No intervention,33,32.2,2.6,13,3,No,30,No, , ,PPOS,12,3600,Dual trigger,34,11,8,Yes,3,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+240,No intervention,30,24.4,3.6,17,0,No,47,No, , ,PPOS,8,2400,Dual trigger,39,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,36.6,3001,Vaginal
+241,No intervention,34,18.8,1.6,7,1,No,35,No, , ,PPOS,10,2250,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,38.1,2755,Cesarean
+242,No intervention,32,24.2,2.8,16,3,Yes,46,Yes, , ,PPOS,9,2025,Dual trigger,34,12,10,Yes,8,4,3,2,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40,3300,Cesarean
+243,No intervention,33,20.1,2.6,14,7,No,31,No, , ,PPOS,7,3000,hCG trigger,36,9,8,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+244,No intervention,35,25.1,1.9,4,4,No,33,No, , ,PPOS,7,2100,Dual trigger,31,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+245,No intervention,31,22.5,2.2,12,5,Yes,30,Yes, , ,PPOS,10,2250,Dual trigger,37,11,10,Yes,7,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,2921,Vaginal
+246,No intervention,32,23.4,2.6,13,1,Yes,30,Yes, , ,PPOS,13,2925,Dual trigger,36,10,9,No,7,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+247,No intervention,31,22.9,2.5,13,0,Yes,43,Yes, , ,PPOS,10,3000,Dual trigger,37,9,8,Yes,6,3,2,1,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+248,No intervention,29,29.5,2.4,14,1,No,30,No, , ,PPOS,10,3000,Dual trigger,37,2,2,No,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+249,No intervention,32,18,2.3,8,5,No,37,No, , ,PPOS,13,2925,Dual trigger,36,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.4,2783,Vaginal
+250,No intervention,33,21.4,2.2,9,1,No,55,No, , ,PPOS,9,2700,Dual trigger,33,4,3,No,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+251,No intervention,37,24.1,1,5,0,No,30,No, , ,PPOS,10,3000,Dual trigger,34,7,6,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,Yes,No,No,No,No,Yes,36.6,3300,Cesarean
+252,No intervention,34,24.4,1.1,6,3,No,54,No, , ,PPOS,12,2700,Dual trigger,35,3,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+253,No intervention,35,20.5,2.6,9,2,Yes,31,Yes, , ,PPOS,7,2100,Dual trigger,38,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+254,No intervention,35,26,1.2,8,2,No,59,Yes, , ,PPOS,11,3300,Dual trigger,38,6,5,No,4,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+255,No intervention,36,20.9,.5,4,0,No,42,No, , ,PPOS,12,2700,Dual trigger,38,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No, ,No,No,No, , , , , , , , , 
+256,No intervention,30,19.3,2.9,15,2,No,60,Yes, , ,PPOS,10,3000,Dual trigger,37,3,2,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+257,No intervention,33,20.8,1.5,8,6,No,49,No, , ,PPOS,12,3600,Dual trigger,36,2,2,No,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+258,No intervention,33,25.4,1.7,6,7,Yes,34,Yes, , ,PPOS,11,3300,hCG trigger,34,6,5,No,4,2,2,1,1,Yes,0,0,0,Yes, ,Yes,No,No, , , , , , , , , 
+259,No intervention,35,24.7,2.4,11,4,No,45,No, , ,PPOS,12,3600,Dual trigger,35,9,7,No,6,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+260,No intervention,33,19.2,1.6,9,1,No,35,No, , ,PPOS,10,2250,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,39,3565,Cesarean
+261,No intervention,35,19.9,2.4,12,2,No,30,No, , ,PPOS,10,3000,hCG trigger,41,4,3,Yes,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+262,No intervention,36,21.2,1.9,9,2,Yes,47,Yes, , ,PPOS,11,3300,Dual trigger,37,11,9,No,7,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+263,No intervention,33,19.3,3.1,16,5,No,47,No, , ,PPOS,10,2250,hCG trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+264,No intervention,35,27.3,1.9,11,0,No,52,No, , ,PPOS,11,2475,Dual trigger,38,8,6,Yes,6,3,2,1,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+265,No intervention,37,27.2,1.2,6,4,Yes,47,Yes, , ,Antagonist,8,1800,Dual trigger,40,9,8,Yes,6,3,2,1,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+266,No intervention,35,32.1,2,11,0,No,30,No, , ,PPOS,8,1800,Dual trigger,42,12,10,Yes,8,4,3,1,1,Yes,1,1,33.3,Yes,No,Yes,No,No, , , , , , , , , 
+267,No intervention,37,23.2,1.8,11,5,No,30,No, , ,PPOS,9,2700,Dual trigger,38,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+268,No intervention,37,20.1,1.3,7,6,No,74,Yes, , ,PPOS,8,2400,Dual trigger,37,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+269,No intervention,31,18,2.6,13,7,No,31,No, , ,PPOS,7,2100,Dual trigger,36,9,8,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+270,No intervention,36,26.7,1.6,9,0,No,31,No, , ,PPOS,11,2475,Dual trigger,37,10,8,Yes,6,3,3,1,1,Yes,0,1,33.3,No,No,No,No,No, , , , , , , , , 
+271,No intervention,29,22,2.1,8,5,Yes,31,Yes, , ,Antagonist,10,3000,Dual trigger,37,11,10,Yes,8,4,4,3,1,Yes,2,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.5,2622,Vaginal
+272,No intervention,33,22.9,1.9,10,3,No,49,No, , ,PPOS,7,2100,Dual trigger,33,5,4,Yes,3,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.2,3964,Vaginal
+273,No intervention,35,26,1.1,4,5,No,48,No, , ,PPOS,12,3600,Dual trigger,35,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+274,No intervention,37,26.3,1.8,8,2,No,31,No, , ,PPOS,12,3600,Dual trigger,37,8,7,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+275,No intervention,29,23.5,2.1,13,3,No,40,No, , ,PPOS,11,3300,Dual trigger,36,10,8,Yes,6,4,2,1,1,Yes,2,0,0,Yes, ,No,Yes,Yes,No,No,No,No,No,No,40.1,2505,Cesarean
+276,No intervention,33,25.4,1.2,4,5,No,48,No, , ,PPOS,12,3600,Dual trigger,35,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+277,No intervention,36,25.5,1.7,11,2,No,32,No, , ,PPOS,9,2700,Dual trigger,39,9,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+278,No intervention,35,18,2.8,15,1,No,30,No, , ,PPOS,13,3900,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39,2916,Vaginal
+279,No intervention,39,24.9,1.5,10,1,No,30,No, , ,PPOS,9,2700,Dual trigger,33,2,2,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+280,No intervention,33,21.3,2.4,12,5,Yes,30,Yes, , ,PPOS,10,2250,Dual trigger,35,10,8,No,6,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+281,No intervention,30,30.1,2,12,1,Yes,56,Yes, , ,PPOS,10,2250,Dual trigger,35,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,3130,Vaginal
+282,No intervention,35,22.5,1.6,13,2,Yes,31,Yes, , ,Antagonist,7,2100,Dual trigger,38,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+283,No intervention,35,25.5,2.9,11,6,No,61,Yes, , ,PPOS,10,3000,Dual trigger,36,11,10,No,9,4,3,2,1,Yes,2,0,0,No, ,No,No,No, , , , , , , , , 
+284,No intervention,34,26,3.4,14,4,No,38,No, , ,Antagonist,7,2100,Dual trigger,40,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+285,No intervention,33,24.9,1.4,6,1,Yes,55,Yes, , ,PPOS,10,2250,Dual trigger,39,10,8,Yes,6,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.6,3389,Cesarean
+286,No intervention,31,24.4,3.1,18,0,No,40,No, , ,PPOS,12,2700,Dual trigger,37,8,7,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+287,No intervention,33,25,2.4,12,4,No,45,No, , ,PPOS,12,3600,Dual trigger,35,12,10,No,7,3,2,1,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+288,No intervention,35,28.3,1.8,7,5,No,42,No, , ,PPOS,8,2400,hCG trigger,36,3,3,No,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+289,No intervention,35,24.3,1.4,8,2,Yes,38,Yes, , ,PPOS,8,1800,Dual trigger,35,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+290,No intervention,33,21.7,2,9,5,No,35,No, , ,PPOS,12,2700,Dual trigger,38,8,7,No,5,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+291,No intervention,35,26,1.2,4,5,Yes,38,Yes, , ,PPOS,9,2700,hCG trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+292,No intervention,32,25.5,1.3,8,0,No,30,No, , ,Antagonist,10,2250,Dual trigger,35,8,7,No,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+293,No intervention,35,22.1,1.4,9,2,No,38,No, , ,PPOS,12,2700,Dual trigger,35,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.6,3231,Vaginal
+294,No intervention,35,24.6,1.3,5,1,No,36,No, , ,PPOS,12,3600,Dual trigger,35,4,3,No,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+295,No intervention,30,23,3.1,19,3,No,67,Yes, , ,Antagonist,10,3000,Dual trigger,36,6,5,Yes,4,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+296,No intervention,34,26,2.5,13,7,No,30,No, , ,PPOS,11,3300,Dual trigger,34,3,3,No,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.1,2670,Cesarean
+297,No intervention,32,24,2.1,13,2,Yes,40,Yes, , ,PPOS,13,3900,Dual trigger,36,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+298,No intervention,34,27.3,1.2,7,1,No,60,Yes, , ,PPOS,11,3300,Dual trigger,38,6,5,No,4,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+299,No intervention,34,22.6,3.6,14,4,No,30,No, , ,PPOS,9,2025,Dual trigger,38,7,6,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,3005,Vaginal
+300,No intervention,30,19.4,2.5,9,1,Yes,32,Yes, , ,PPOS,14,4200,hCG trigger,39,5,4,No,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+301,No intervention,36,22.8,1.4,5,0,No,59,No, , ,PPOS,10,3000,Dual trigger,37,6,5,Yes,4,2,2,0,2,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+302,No intervention,39,23.4,1.9,8,4,No,30,No, , ,PPOS,8,1800,Dual trigger,36,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+303,No intervention,36,28.9,.9,3,6,No,34,No, , ,PPOS,12,3600,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+304,No intervention,32,23,1.5,7,1,Yes,55,Yes, , ,PPOS,10,2250,Dual trigger,39,10,9,Yes,7,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,38,3761,Cesarean
+305,No intervention,33,29.6,2.6,12,3,Yes,50,Yes, , ,PPOS,7,2100,Dual trigger,38,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+306,No intervention,32,24.2,2.5,10,2,No,37,No, , ,PPOS,11,3300,Dual trigger,36,6,5,Yes,4,2,2,0,2,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+307,No intervention,31,22.3,2.3,12,0,No,41,No, , ,PPOS,10,3000,Dual trigger,38,14,12,Yes,8,6,5,2,3,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40,2980,Vaginal
+308,No intervention,33,26.9,2.8,13,6,No,36,No, , ,PPOS,11,3300,Dual trigger,33,4,3,Yes,2,1,1,1,0,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,38.3,3644,Cesarean
+309,No intervention,33,23.9,2.3,9,0,No,43,No, , ,PPOS,9,2700,Dual trigger,36,5,4,No,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+310,No intervention,33,24,2.1,12,2,No,50,No, , ,PPOS,11,2475,Dual trigger,37,12,9,Yes,7,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+311,No intervention,35,21,3.6,16,7,Yes,30,Yes, , ,PPOS,8,1800,hCG trigger,38,4,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+312,No intervention,34,19.2,1.6,7,4,No,55,No, , ,PPOS,13,2925,Dual trigger,35,9,8,Yes,6,3,2,1,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+313,No intervention,28,22.3,2.2,11,5,Yes,31,Yes, , ,PPOS,10,3000,Dual trigger,37,9,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,37.4,2789,Vaginal
+314,No intervention,33,26.1,3.3,13,3,No,30,No, , ,PPOS,9,2700,Dual trigger,38,7,6,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+315,No intervention,35,20.8,3,17,7,Yes,30,Yes, , ,PPOS,8,1800,Dual trigger,38,4,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+316,No intervention,36,20.7,.7,3,4,No,33,No, , ,PPOS,14,4200,Dual trigger,37,2,2,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+317,No intervention,33,18.8,1.6,14,5,No,62,Yes, , ,PPOS,7,3000,Dual trigger,36,4,3,No,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+318,No intervention,36,26,1.6,8,5,Yes,30,Yes, , ,PPOS,12,3600,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,41.1,2867,Vaginal
+319,No intervention,33,28,1.6,7,0,No,44,No, , ,PPOS,9,2700,Dual trigger,35,6,5,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+320,No intervention,35,29,1.7,9,4,No,54,No, , ,PPOS,9,2025,Dual trigger,35,9,6,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+321,No intervention,33,23.4,2.6,11,1,Yes,30,Yes, , ,PPOS,13,2925,hCG trigger,36,10,8,No,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+322,No intervention,33,26,1.8,9,2,No,51,No, , ,Antagonist,8,1800,Dual trigger,37,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+323,No intervention,37,21.4,2.1,11,3,No,49,No, , ,PPOS,10,3000,hCG trigger,36,7,6,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+324,No intervention,33,21.3,2.4,12,5,Yes,30,Yes, , ,PPOS,10,2250,Dual trigger,35,10,9,No,7,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+325,No intervention,33,24.2,3.1,7,3,No,77,Yes, , ,PPOS,10,2250,Dual trigger,37,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+326,No intervention,35,23.5,1.1,6,5,No,48,No, , ,PPOS,12,3600,Dual trigger,35,4,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+327,No intervention,33,26.7,2,8,1,Yes,63,Yes, , ,PPOS,10,2250,Dual trigger,35,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,3130,Vaginal
+328,No intervention,31,26,1.9,11,4,No,38,No, , ,Antagonist,7,2100,Dual trigger,40,3,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+329,No intervention,36,20.8,2,9,3,No,48,No, , ,PPOS,12,3600,Dual trigger,36,8,6,No,4,3,2,1,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+330,No intervention,36,23.4,.5,4,2,Yes,32,Yes, , ,PPOS,11,3300,Dual trigger,35,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.4,2820,Cesarean
+331,No intervention,32,21.6,2.1,10,6,No,30,No, , ,PPOS,12,2700,Dual trigger,37,9,7,Yes,6,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,38.5,2767,Cesarean
+332,No intervention,36,22,2,12,4,No,39,No, , ,PPOS,9,2700,Dual trigger,35,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,38.6,2817,Vaginal
+333,No intervention,33,21.7,2.1,10,3,Yes,46,Yes, , ,PPOS,9,2025,Dual trigger,34,12,10,Yes,8,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,2900,Cesarean
+334,No intervention,30,26.1,4.2,15,3,No,30,No, , ,PPOS,9,2700,Dual trigger,38,7,6,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+335,No intervention,31,25.9,2.3,15,2,Yes,30,Yes, , ,PPOS,11,2475,Dual trigger,35,12,11,Yes,8,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+336,No intervention,32,23.5,1.2,6,0,Yes,61,No, , ,PPOS,10,3000,Dual trigger,35,4,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.6,3143,Cesarean
+337,No intervention,34,26.3,2.7,12,2,No,47,No, , ,Antagonist,10,2250,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+338,No intervention,31,28.2,3,17,0,No,34,No, , ,Antagonist,10,2250,Dual trigger,36,12,10,No,8,4,4,3,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+339,No intervention,40,25.8,.7,4,6,No,39,No, , ,PPOS,11,3300,Dual trigger,35,6,5,Yes,4,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+340,No intervention,32,27,1.9,7,0,No,44,No, , ,PPOS,10,3000,Dual trigger,36,8,6,Yes,4,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.2,3240,Vaginal
+341,No intervention,31,23.8,1.7,10,3,No,62,Yes, , ,PPOS,13,2925,hCG trigger,34,7,6,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+342,No intervention,36,28.7,2.3,15,4,Yes,42,Yes, , ,PPOS,10,3000,Dual trigger,36,3,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+343,No intervention,36,24.5,2.5,13,1,No,38,No, , ,PPOS,9,2025,Dual trigger,36,6,5,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+344,No intervention,33,22.1,2.6,10,2,No,38,No, , ,PPOS,12,2700,hCG trigger,35,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.6,2955,Vaginal
+345,No intervention,35,28,.6,3,0,No,44,No, , ,PPOS,9,2700,Dual trigger,35,6,5,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+346,No intervention,36,23.2,1.9,8,4,No,30,No, , ,PPOS,9,2700,Dual trigger,38,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+347,No intervention,34,25.8,2.7,16,3,No,41,No, , ,PPOS,10,2250,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+348,No intervention,37,21.6,1.7,9,5,No,30,No, , ,PPOS,13,3900,Dual trigger,35,7,6,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+349,No intervention,36,27.8,2.4,10,0,No,44,No, , ,Antagonist,9,2700,Dual trigger,35,6,5,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+350,No intervention,33,25.1,2.7,16,4,No,41,No, , ,PPOS,10,2250,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+351,No intervention,30,24.5,2.8,13,5,Yes,30,Yes, , ,PPOS,10,2250,Dual trigger,37,11,9,Yes,7,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,2921,Vaginal
+352,No intervention,33,25.1,2.4,9,4,No,30,No, , ,PPOS,9,2025,Dual trigger,38,7,6,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.4,3159,Vaginal
+353,No intervention,36,26.5,1.9,7,0,No,54,No, , ,PPOS,11,2475,Dual trigger,38,6,5,Yes,5,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+354,No intervention,27,27.4,2.5,14,1,No,42,No, , ,PPOS,9,2025,Dual trigger,36,7,6,Yes,5,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+355,No intervention,35,27.8,1.9,14,1,No,30,No, , ,PPOS,11,3300,Dual trigger,38,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,Yes,No,No, , ,No,36.6,2899,Vaginal
+356,No intervention,32,32,1.1,6,3,No,30,No, , ,PPOS,12,3600,Dual trigger,34,4,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+357,No intervention,31,22.7,3.7,19,5,No,44,No, , ,PPOS,10,2000,Dual trigger,33,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.1,3209,Cesarean
+358,No intervention,36,23.5,2.4,9,4,No,51,No, , ,PPOS,10,3000,Dual trigger,36,8,5,Yes,4,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+359,No intervention,36,18,2.2,10,2,Yes,47,Yes, , ,PPOS,12,3600,Dual trigger,33,7,6,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+360,No intervention,34,27.3,2.1,10,7,No,47,No, , ,PPOS,9,1900,Dual trigger,39,13,11,Yes,8,4,3,2,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,3245,Cesarean
+361,No intervention,32,19.8,2.5,13,4,Yes,40,Yes, , ,PPOS,10,3000,Dual trigger,36,3,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+362,No intervention,34,23.7,3.1,15,3,Yes,42,Yes, , ,Antagonist,9,2700,hCG trigger,38,12,10,Yes,8,4,2,1,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,3162,Vaginal
+363,No intervention,34,20.1,1.9,11,4,No,39,No, , ,PPOS,11,2475,Dual trigger,37,12,10,Yes,8,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,36.6,2868,Vaginal
+364,No intervention,28,25.2,3.8,17,3,No,48,No, , ,Antagonist,9,2025,Dual trigger,38,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+365,No intervention,30,27,2.7,14,4,Yes,30,Yes, , ,PPOS,8,2400,hCG trigger,34,4,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+366,No intervention,34,23,1.8,13,5,No,30,No, , ,PPOS,11,3300,hCG trigger,33,7,6,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+367,No intervention,35,21.4,2,7,3,No,51,No, , ,PPOS,12,3600,Dual trigger,36,2,2,No,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+368,No intervention,31,20.2,2.6,13,2,No,30,No, , ,PPOS,10,2250,Dual trigger,36,9,8,Yes,6,3,3,2,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,39.2,3204,Vaginal
+369,No intervention,33,26.1,1.4,6,5,Yes,38,Yes, , ,PPOS,9,2700,Dual trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+370,No intervention,27,25.9,2.3,12,3,No,37,No, , ,Antagonist,9,2025,Dual trigger,37,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+371,No intervention,33,25.1,2.9,12,2,No,41,No, , ,PPOS,10,2250,Dual trigger,36,8,7,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+372,No intervention,33,26.1,1.2,7,5,Yes,38,Yes, , ,PPOS,9,2700,Dual trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+373,No intervention,32,26,2.4,21,4,No,38,No, , ,PPOS,7,2100,Dual trigger,40,13,13,Yes,11,8,2,1,1,Yes,6,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+374,No intervention,33,21.2,1.9,9,1,Yes,48,Yes, , ,PPOS,10,2250,Dual trigger,38,11,9,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+375,No intervention,33,22,2.6,12,1,No,55,No, , ,PPOS,9,2700,hCG trigger,33,4,3,No,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+376,No intervention,35,25,1.2,5,5,Yes,38,Yes, , ,Antagonist,9,2700,Dual trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+377,No intervention,32,23.7,1.9,4,0,No,52,No, , ,PPOS,12,3600,Dual trigger,38,6,5,Yes,4,3,2,1,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,37.6,3029,Cesarean
+378,No intervention,33,22.5,2.2,11,5,Yes,30,Yes, , ,PPOS,10,2250,Dual trigger,37,11,10,Yes,7,4,4,3,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,2921,Vaginal
+379,No intervention,33,26,1.4,13,5,No,30,No, , ,Antagonist,10,2700,Dual trigger,36,10,7,Yes,5,3,3,1,2,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,36.6,3334,Cesarean
+380,No intervention,31,28.8,1.5,8,1,No,45,No, , ,PPOS,14,4200,hCG trigger,38,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,37.4,3271,Vaginal
+381,No intervention,34,24.4,3,17,4,Yes,49,Yes, , ,Antagonist,11,2200,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39,3406,Vaginal
+382,No intervention,34,27.5,2.4,10,3,No,30,No, , ,PPOS,9,2700,hCG trigger,36,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,Yes,36.5,3230,Cesarean
+383,No intervention,32,19.9,2.8,14,3,No,47,No, , ,PPOS,10,3000,hCG trigger,37,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+384,No intervention,29,20.1,3.1,19,0,No,33,No, , ,Antagonist,9,2025,Dual trigger,37,9,7,No,5,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+385,No intervention,34,26.9,2.9,18,0,No,43,No, , ,Antagonist,13,3900,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+386,No intervention,37,19.8,2.1,8,3,Yes,30,Yes, , ,PPOS,13,3900,hCG trigger,38,7,6,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+387,No intervention,36,21.6,1.8,9,2,No,30,No, , ,PPOS,9,2700,Dual trigger,38,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+388,No intervention,38,23.4,2.1,9,4,No,30,No, , ,PPOS,8,1800,Dual trigger,36,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+389,No intervention,35,21.9,1.6,8,2,No,31,No, , ,PPOS,12,3600,Dual trigger,37,8,7,Yes,5,2,1,0,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+390,No intervention,35,25.3,1.2,7,5,Yes,38,Yes, , ,PPOS,9,2700,hCG trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+391,No intervention,34,28,1.2,10,2,No,60,Yes, , ,PPOS,11,3300,Dual trigger,38,8,7,No,5,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+392,No intervention,32,23.4,3.6,19,6,No,61,Yes, , ,PPOS,10,3000,Dual trigger,36,18,16,No,11,5,3,2,1,Yes,3,0,0,No, ,No,No,No, , , , , , , , , 
+393,No intervention,32,22.9,2.5,10,3,Yes,39,Yes, , ,Antagonist,10,3000,Dual trigger,38,9,7,No,5,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.2,3245,Cesarean
+394,No intervention,32,26,2.5,10,7,No,30,No, , ,PPOS,11,3300,Dual trigger,34,3,2,No,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.1,3026,Cesarean
+395,No intervention,35,32,1.2,7,6,No,37,No, , ,PPOS,9,2025,hCG trigger,36,10,8,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+396,No intervention,34,27.6,2.1,13,1,No,41,No, , ,PPOS,10,3000,Dual trigger,35,3,2,No,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+397,No intervention,35,22,2,9,4,No,39,No, , ,Antagonist,9,2700,Dual trigger,35,3,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,Yes,No,38.6,2817,Vaginal
+398,No intervention,32,24.5,2.2,8,1,No,52,No, , ,Antagonist,10,2250,hCG trigger,34,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,38.5,2767,Cesarean
+399,No intervention,33,22.6,3.1,17,0,No,33,No, , ,PPOS,9,2025,Dual trigger,37,9,7,No,5,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+400,No intervention,35,23.9,1.3,3,6,No,53,No, , ,PPOS,10,3000,Dual trigger,37,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,36.6,3087,Cesarean
+401,No intervention,31,25.9,2.3,14,2,Yes,30,Yes, , ,PPOS,11,2475,Dual trigger,35,12,10,Yes,8,4,3,2,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+402,No intervention,36,27.9,1.2,4,5,Yes,38,Yes, , ,PPOS,9,2700,Dual trigger,35,5,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+403,No intervention,34,24.2,1.6,5,1,Yes,50,Yes, , ,PPOS,10,3000,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+404,No intervention,33,20.4,.6,3,3,Yes,49,Yes, , ,PPOS,9,2700,Dual trigger,34,6,5,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+405,No intervention,29,21,2.9,19,5,No,40,No, , ,PPOS,10,3000,Dual trigger,33,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes, , ,No,38.3,2958,Vaginal
+406,No intervention,36,22,1.6,9,2,No,31,No, , ,PPOS,12,3600,Dual trigger,37,8,7,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+407,No intervention,36,23,2.2,12,5,No,49,No, , ,PPOS,13,3900,Dual trigger,35,3,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+408,No intervention,34,25,3.1,14,0,No,43,No, , ,PPOS,8,2400,Dual trigger,39,3,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+409,No intervention,35,24,2.6,16,1,No,30,No, , ,PPOS,8,2400,hCG trigger,38,10,8,Yes,6,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+410,No intervention,34,24.1,2.6,10,3,No,62,Yes, , ,PPOS,7,2100,Dual trigger,37,14,12,Yes,9,4,4,3,1,No,3,0,0,No,No,No,No,No, , , , , , , , , 
+411,No intervention,34,38,1.5,8,1,No,59,No, , ,PPOS,8,1800,Dual trigger,36,8,7,No,5,3,3,2,1,Yes,1,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+412,No intervention,34,20,1.2,5,2,No,49,No, , ,PPOS,10,3000,Dual trigger,36,7,6,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+413,No intervention,34,26,1.7,10,7,Yes,34,Yes, , ,PPOS,11,3300,hCG trigger,34,6,5,No,4,2,2,1,1,Yes,0,0,0,Yes, ,Yes,No,No, , , , , , , , , 
+414,No intervention,35,20.9,2.3,15,0,Yes,58,Yes, , ,PPOS,8,2400,Dual trigger,40,4,3,No,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+415,No intervention,32,31.7,2.4,10,3,No,30,No, , ,PPOS,12,3600,Dual trigger,34,9,7,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+416,No intervention,33,23.5,1.4,8,1,Yes,55,Yes, , ,Antagonist,10,2250,Dual trigger,39,10,8,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+417,No intervention,37,20.5,1.1,5,5,Yes,30,Yes, , ,PPOS,8,2400,hCG trigger,36,3,3,No,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+418,No intervention,36,23,2.4,10,1,No,30,No, , ,PPOS,10,3000,Dual trigger,35,3,3,No,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+419,No intervention,32,27,2.9,14,0,No,43,No, , ,PPOS,13,3900,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+420,No intervention,33,21.7,3.5,17,2,No,51,No, , ,PPOS,10,2250,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+421,No intervention,32,22,2.8,16,3,Yes,46,Yes, , ,PPOS,9,2025,hCG trigger,34,12,10,Yes,7,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.1,2311,Cesarean
+422,No intervention,35,19.8,2.1,10,3,Yes,30,Yes, , ,PPOS,13,3900,Dual trigger,38,7,6,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+423,No intervention,36,26.7,1.6,9,0,No,31,No, , ,Antagonist,11,2475,Dual trigger,37,10,9,Yes,7,3,2,0,1,No,1,1,50,No,No,No,No,No, , , , , , , , , 
+424,No intervention,30,24.2,2.5,15,2,No,37,No, , ,PPOS,11,3300,Dual trigger,36,6,5,Yes,4,2,2,0,1,No,0,1,50,No,No,No,No,No, , , , , , , , , 
+425,No intervention,33,19.8,1.5,7,4,No,48,No, , ,PPOS,9,2700,Dual trigger,35,7,6,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+426,No intervention,35,25.9,2.3,13,3,No,43,No, , ,PPOS,8,2400,Dual trigger,35,3,3,Yes,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+427,No intervention,38,25.8,.5,3,6,No,34,No, , ,PPOS,11,3300,Dual trigger,35,6,5,Yes,4,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+428,No intervention,33,23.7,2.6,12,2,Yes,30,Yes, , ,PPOS,11,2475,Dual trigger,39,14,12,Yes,9,4,3,2,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+429,No intervention,36,23.4,1.7,8,2,No,38,No, , ,Antagonist,12,2700,Dual trigger,35,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.4,3765,Vaginal
+430,No intervention,31,23.8,2,10,0,Yes,39,Yes, , ,PPOS,12,3600,Dual trigger,33,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+431,No intervention,32,24.6,4.2,14,0,No,41,No, , ,PPOS,14,3150,Dual trigger,31,4,4,No,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+432,No intervention,37,28.9,.7,4,6,No,32,No, , ,Antagonist,12,3600,Dual trigger,36,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+433,No intervention,32,29.9,2.2,10,6,No,39,No, , ,PPOS,12,3600,Dual trigger,36,7,6,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,No, , ,No,36.6,3632,Cesarean
+434,No intervention,30,25.9,3.3,18,0,No,52,No, , ,PPOS,11,3300,Dual trigger,40,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+435,No intervention,29,18.5,2.2,17,3,No,30,No, , ,PPOS,10,3000,Dual trigger,35,11,9,Yes,7,3,3,2,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.3,3465,Cesarean
+436,No intervention,34,19.8,2,9,4,No,43,No, , ,Antagonist,9,2700,Dual trigger,35,7,6,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+437,No intervention,32,21.8,2.3,11,5,Yes,31,Yes, , ,PPOS,10,3000,Dual trigger,37,12,11,Yes,8,4,3,2,1,Yes,2,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,37.6,3290,Vaginal
+438,No intervention,34,27.9,1.8,7,1,No,59,No, , ,PPOS,8,1800,Dual trigger,36,8,7,No,5,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+439,No intervention,33,27,3.1,15,3,No,30,No, , ,PPOS,9,2700,Dual trigger,38,7,6,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+440,No intervention,36,22.6,1.8,7,4,No,30,No, , ,PPOS,9,2700,Dual trigger,36,6,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+441,No intervention,36,21.5,1.8,10,4,Yes,32,Yes, , ,PPOS,9,2700,hCG trigger,37,5,4,Yes,3,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+442,No intervention,32,22,2.4,11,2,No,36,No, , ,PPOS,10,3000,Dual trigger,41,4,3,Yes,2,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+443,No intervention,36,20.3,1.9,8,9,No,37,No, , ,PPOS,10,3000,Dual trigger,33,6,2,No,2,1,1,1,0,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,Yes, , ,No,38.3,3023,Vaginal
+444,No intervention,39,29.9,.5,3,1,No,44,No, , ,PPOS,10,2250,Dual trigger,38,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+445,No intervention,31,29.6,2.8,13,3,Yes,50,Yes, , ,PPOS,7,2100,Dual trigger,38,4,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+446,No intervention,36,27.5,1.8,9,4,No,56,No, , ,PPOS,9,2025,Dual trigger,35,8,7,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+447,No intervention,38,21.5,.7,3,4,No,30,No, , ,PPOS,14,4200,Dual trigger,37,2,2,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+448,No intervention,36,23.7,1.4,3,0,No,59,No, , ,PPOS,10,3000,Dual trigger,37,6,5,Yes,4,2,2,1,1,Yes,0,0,100,No,No,No,No,No, , , , , , , , , 
+449,No intervention,33,28.2,2.8,15,2,No,39,No, , ,PPOS,9,2700,Dual trigger,37,4,4,No,3,2,2,1,1,Yes,0,0,0,Yes, ,Yes,No,No, , , , , , , , , 
+450,No intervention,31,19,2.2,10,3,Yes,30,Yes, , ,PPOS,8,2400,Dual trigger,40,8,6,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+451,No intervention,32,27.3,2.2,9,4,No,42,No, , ,PPOS,11,1500,hCG trigger,39,13,12,Yes,9,4,3,2,1,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.6,3195,Cesarean
+452,No intervention,30,22.4,2.9,15,2,No,30,No, , ,PPOS,10,2250,Dual trigger,36,8,6,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+453,No intervention,35,25.4,1.7,8,7,Yes,34,Yes, , ,PPOS,11,3300,Dual trigger,34,6,5,No,4,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No,No,No,No,40.6,3202,Vaginal
+454,No intervention,36,28.2,2,10,4,No,56,No, , ,PPOS,9,2025,Dual trigger,35,7,6,No,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+455,No intervention,35,27.8,1.5,7,0,No,44,No, , ,PPOS,9,2700,Dual trigger,35,6,5,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+456,No intervention,32,28.2,2.4,18,5,No,39,No, , ,PPOS,9,2700,Dual trigger,37,4,4,No,3,2,2,1,1,Yes,0,0,0,Yes, ,Yes,No,No, , , , , , , , , 
+457,No intervention,32,26.7,3.4,17,4,No,38,No, , ,PPOS,7,2100,Dual trigger,40,3,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+458,No intervention,31,23.7,2.8,14,2,Yes,30,Yes, , ,PPOS,11,2475,Dual trigger,39,14,12,Yes,9,4,3,2,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+459,No intervention,34,18,2.3,12,5,No,37,No, , ,PPOS,13,2925,Dual trigger,36,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.6,2783,Vaginal
+460,No intervention,32,27.5,2,7,1,Yes,63,Yes, , ,PPOS,10,2250,Dual trigger,35,4,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.2,3300,Vaginal
+461,No intervention,35,32.7,1.7,8,5,No,30,No, , ,PPOS,11,3300,Dual trigger,33,7,6,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+462,No intervention,31,21.2,2.6,12,5,No,47,No, , ,PPOS,10,2250,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+463,No intervention,32,19.4,2.1,12,1,Yes,30,Yes, , ,Antagonist,14,4200,Dual trigger,39,5,4,No,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+464,No intervention,30,25.4,1.9,9,0,No,30,No, , ,PPOS,7,2100,Dual trigger,40,11,9,Yes,7,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+465,No intervention,30,29.6,3.1,11,5,Yes,31,Yes, , ,Antagonist,10,3000,Dual trigger,37,11,9,Yes,7,3,3,2,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,37.6,3150,Vaginal
+466,No intervention,33,32.7,1.9,8,5,No,31,No, , ,PPOS,11,3300,Dual trigger,33,7,6,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+467,No intervention,36,27,1.1,3,5,Yes,30,Yes, , ,PPOS,12,3600,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,36.6,2867,Vaginal
+468,No intervention,35,29.1,1.6,8,1,No,59,No, , ,Antagonist,8,1800,Dual trigger,36,8,7,No,5,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+469,No intervention,32,25,2.1,10,2,No,50,No, , ,PPOS,11,2475,Dual trigger,37,10,10,Yes,8,4,4,3,1,No,3,0,0,No,No,No,No,No, , , , , , , , , 
+470,No intervention,34,19.8,2.1,9,3,Yes,30,Yes, , ,PPOS,13,3900,Dual trigger,38,7,6,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,37.2,3761,Cesarean
+471,No intervention,34,21.8,1.1,6,1,No,33,No, , ,PPOS,11,3300,Dual trigger,36,4,3,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+472,No intervention,35,24.3,1.7,9,0,No,43,No, , ,PPOS,10,3000,Dual trigger,35,2,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,Yes,37.6,2650,Vaginal
+473,No intervention,33,25.4,2,9,0,No,30,No, , ,PPOS,7,2100,Dual trigger,40,11,10,Yes,8,4,4,3,1,Yes,2,0,0,Yes,No,No,Yes,Yes, , , , , , ,39.2,3004,Vaginal
+474,No intervention,36,22.5,1.3,6,4,No,49,No, , ,PPOS,10,3000,Dual trigger,36,7,6,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+475,No intervention,35,25.9,1.8,8,3,No,33,No, , ,PPOS,10,3000,Dual trigger,33,7,6,Yes,5,2,2,0,1,No,0,1,100,No,No,No,No,No, , , , , , , , , 
+476,No intervention,35,24.4,1.4,7,3,No,56,No, , ,PPOS,12,2700,Dual trigger,35,3,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+477,No intervention,43,20.1,.6,3,0,No,35,No, , ,PPOS,10,3000,Dual trigger,34,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+478,No intervention,33,26.7,1.8,9,4,No,33,No, , ,PPOS,7,2100,Dual trigger,31,2,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.5,2950,Vaginal
+479,No intervention,31,27.4,2.5,8,1,No,42,No, , ,PPOS,9,2025,Dual trigger,36,7,6,Yes,5,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+480,No intervention,34,23.5,2,6,1,Yes,55,Yes, , ,PPOS,10,2250,Dual trigger,39,10,8,Yes,6,3,2,1,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+481,No intervention,31,26.9,1.7,16,0,No,43,No, , ,PPOS,13,3900,Dual trigger,36,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+482,No intervention,33,24,2.1,7,5,No,51,No, , ,PPOS,8,1800,Dual trigger,37,6,5,Yes,4,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+483,No intervention,36,18,2.1,6,6,No,30,No, , ,PPOS,12,2700,Dual trigger,37,9,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,40.6,2767,Cesarean
+484,No intervention,32,21.4,2.4,13,2,No,32,No, , ,PPOS,10,3000,Dual trigger,41,4,4,Yes,3,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+485,No intervention,37,24,3.1,17,4,No,51,No, , ,Antagonist,10,3000,Dual trigger,36,12,11,Yes,5,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+486,No intervention,33,32,1.6,8,5,No,30,No, , ,PPOS,11,3300,hCG trigger,33,7,6,Yes,5,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+487,No intervention,37,26,2.9,16,1,No,36,No, , ,PPOS,11,3300,Dual trigger,38,6,5,Yes,5,3,3,2,1,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.3,3215,Vaginal
+488,Sclerotherapy,36,24.6,2.9,18,1,No,67,Yes,2, ,PPOS,12,3600,Dual trigger,36,5,4,Yes,3,1,1,1,0,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+489,Sclerotherapy,34,23.9,2.6,16,1,No,40,No,2, ,PPOS,11,3300,Dual trigger,38,6,5,No,4,3,2,0,2,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+490,Sclerotherapy,35,22.1,1.8,8,4,No,39,No,2, ,PPOS,11,3300,Dual trigger,35,7,6,Yes,5,3,3,2,1,Yes,1,0,0,Yes,No,No,Yes,Yes,Yes,Yes, , , ,Yes,36.5,2675,Cesarean
+491,Sclerotherapy,33,21.1,3.2,13,4,No,50,No,2, ,PPOS,12,2700,Dual trigger,35,8,7,No,5,3,3,2,1,Yes,1,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+492,Sclerotherapy,32,19.1,3.2,14,2,No,46,No,3, ,PPOS,12,3600,Dual trigger,36,6,5,Yes,4,2,1,1,0,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,2736,Vaginal
+493,Sclerotherapy,36,22.5,1.4,7,0,Yes,46,Yes,2, ,PPOS,13,3900,Dual trigger,41,2,2,No,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+494,Sclerotherapy,31,21.3,3.7,20,1,No,48,No,3, ,Antagonist,10,3000,Dual trigger,35,7,6,Yes,4,2,2,0,2,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+495,Sclerotherapy,31,20.5,2.5,12,3,No,54,No,4, ,PPOS,11,2475,Dual trigger,36,7,6,Yes,4,3,3,2,1,Yes,1,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+496,Sclerotherapy,34,23.4,2.2,9,2,No,30,No,1, ,PPOS,13,3900,Dual trigger,38,4,3,No,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.5,2927,Cesarean
+497,Sclerotherapy,33,19.3,2.2,9,0,No,62,Yes,3, ,PPOS,10,2250,hCG trigger,36,3,3,No,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+498,Sclerotherapy,36,31,1.3,6,4,No,38,No,5, ,PPOS,7,1575,Dual trigger,34,8,7,Yes,5,3,3,0,3,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+499,Sclerotherapy,33,25.3,3.2,17,10,Yes,52,Yes,3, ,PPOS,7,2100,Dual trigger,35,3,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+500,Sclerotherapy,35,23.9,1.7,9,1,Yes,43,Yes,3, ,PPOS,12,3600,Dual trigger,33,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+501,Sclerotherapy,37,20.9,2.1,9,3,No,48,No,3, ,PPOS,8,2400,Dual trigger,34,4,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,40.1,2998,Vaginal
+502,Sclerotherapy,30,21.8,2.2,8,2,No,53,No,2, ,PPOS,8,2400,hCG trigger,35,6,5,Yes,4,2,2,1,0,Yes,0,1,100,Yes,No,No,Yes,Yes,No,No,No,No,No,No,39.2,2350,Cesarean
+503,Sclerotherapy,35,23.8,2.5,11,3,Yes,68,Yes,2, ,PPOS,10,3000,Dual trigger,34,11,10,Yes,8,4,4,2,2,Yes,1,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,Yes,39.6,3181,Vaginal
+504,Sclerotherapy,37,22.1,1.9,11,2,Yes,53,Yes,4, ,Antagonist,10,3000,Dual trigger,36,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes, , , , , ,No,41,3767,Cesarean
+505,Sclerotherapy,33,22.5,3.6,18,4,Yes,33,Yes,4, ,PPOS,9,2700,Dual trigger,38,2,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+506,Sclerotherapy,33,25,2.1,11,2,Yes,61,Yes,3, ,PPOS,10,3000,Dual trigger,35,2,2,No,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+507,Sclerotherapy,35,28.9,1.6,8,1,Yes,34,Yes,2, ,PPOS,8,2400,Dual trigger,35,7,6,Yes,5,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+508,Sclerotherapy,33,19.5,2.3,12,0,No,54,No,3, ,PPOS,11,3300,Dual trigger,36,10,8,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+509,Sclerotherapy,33,25.3,2.3,10,3,No,34,No,1, ,PPOS,10,3000,Dual trigger,35,5,4,Yes,3,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+510,Sclerotherapy,35,24.8,1.4,7,4,No,49,No,1, ,PPOS,9,2025,Dual trigger,35,4,3,Yes,2,2,2,2,0,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.5,3043,Vaginal
+511,Sclerotherapy,32,26.2,1.3,7,1,No,53,No,2, ,PPOS,10,3000,Dual trigger,37,6,5,Yes,4,2,2,2,0,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+512,Sclerotherapy,31,21.8,2.4,11,0,Yes,46,Yes,2, ,Antagonist,10,3000,Dual trigger,37,8,8,Yes,7,6,3,2,0,Yes,4,1,100,Yes,No,No,Yes,Yes,Yes,No,Yes,No,No,No,36.6,2859,Vaginal
+513,Sclerotherapy,36,23.1,1,3,2,No,67,Yes,2, ,PPOS,10,3000,Dual trigger,34,7,6,Yes,5,3,1,1,0,Yes,2,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,34.5,2578,Vaginal
+514,Sclerotherapy,31,21.5,3,14,2,No,47,No,3, ,PPOS,11,3300,Dual trigger,33,12,10,Yes,8,6,6,3,3,Yes,2,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.3,3470,Cesarean
+515,Sclerotherapy,38,24.3,.9,3,5,No,33,No,1, ,Antagonist,9,2700,Dual trigger,37,2,2,Yes,2,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+516,Sclerotherapy,34,19.3,.9,4,2,No,42,No,3, ,PPOS,11,3300,Dual trigger,37,6,5,Yes,4,2,1,1,0,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+517,Sclerotherapy,32,21.9,2.6,11,2,No,57,No,2, ,PPOS,9,2700,Dual trigger,39,19,19,Yes,17,15,5,3,2,Yes,13,0,0,Yes,No,No,Yes,Yes, , , , , , ,38,3300,Vaginal
+518,Sclerotherapy,30,24.2,2.1,12,2,Yes,51,Yes,2, ,PPOS,10,2250,Dual trigger,36,9,8,Yes,6,3,3,2,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+519,Sclerotherapy,34,20.8,1.9,9,3,No,77,Yes,4, ,PPOS,9,2700,Dual trigger,34,8,6,Yes,4,2,1,1,0,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+520,Sclerotherapy,35,25.8,1.8,7,4,No,45,No,4, ,PPOS,11,2475,Dual trigger,37,10,9,Yes,7,3,2,1,1,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,Yes,Yes,39.2,3000,Vaginal
+521,Sclerotherapy,34,25.4,1.2,3,4,Yes,49,Yes,1, ,PPOS,9,2700,hCG trigger,35,2,2,No,2,1,1,1,0,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+522,Sclerotherapy,38,26.3,1.4,7,0,Yes,39,Yes,3, ,PPOS,12,3600,Dual trigger,37,5,5,Yes,5,4,2,1,1,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+523,Sclerotherapy,34,23.4,1.5,8,6,Yes,58,Yes,2, ,PPOS,13,3900,Dual trigger,33,7,6,Yes,4,2,2,2,0,Yes,1,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,41.2,3584,Vaginal
+524,Sclerotherapy,34,18,3.6,19,4,Yes,65,Yes,1, ,PPOS,11,2475,Dual trigger,32,7,6,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+525,Sclerotherapy,36,26.2,2.8,11,2,No,30,No,1, ,PPOS,10,2250,Dual trigger,34,6,5,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+526,Sclerotherapy,36,26.5,2.5,9,2,Yes,45,Yes,1, ,PPOS,8,2400,Dual trigger,37,5,4,Yes,3,1,1,1,0,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,Yes,No,No,No,40.6,3521,Cesarean
+527,Sclerotherapy,37,22.2,1.8,8,2,Yes,37,Yes,4, ,PPOS,8,2400,Dual trigger,35,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.4,2953,Vaginal
+528,Sclerotherapy,34,26.3,2.1,7,1,No,74,Yes,3, ,Antagonist,10,3000,hCG trigger,36,4,3,Yes,2,2,2,1,0,Yes,0,1,100,Yes,No,No,Yes,Yes,No,No,No,No,No,No,37.6,2780,Vaginal
+529,Sclerotherapy,33,32.8,2.6,9,1,No,30,No,3, ,PPOS,14,3150,Dual trigger,39,6,5,Yes,4,2,1,1,0,Yes,1,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+530,Sclerotherapy,36,26.4,1.7,10,1,No,56,No,3, ,PPOS,9,2700,Dual trigger,38,3,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+531,Sclerotherapy,32,22.2,2.6,10,2,No,48,No,2, ,PPOS,9,2025,Dual trigger,33,11,9,Yes,6,3,2,2,0,Yes,2,0,0,No,No,No,No,No, , , , , , , , , 
+532,Sclerotherapy,37,25,1.9,9,3,No,71,Yes,4, ,PPOS,8,2400,Dual trigger,36,8,7,Yes,5,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,39.2,3285,Vaginal
+533,Sclerotherapy,41,22.1,.7,4,3,No,66,Yes,2, ,PPOS,10,3000,Dual trigger,33,5,4,Yes,3,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+534,Sclerotherapy,33,28.2,2.7,13,2,Yes,33,Yes,4, ,PPOS,11,3300,Dual trigger,34,9,8,Yes,6,5,2,1,1,Yes,3,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,38.4,3368,Cesarean
+535,Sclerotherapy,34,20.8,1.2,7,3,Yes,36,Yes,3, ,PPOS,7,2100,Dual trigger,37,9,8,Yes,6,3,3,2,1,No,2,0,0,No,No,No,No,No, , , , , , , , , 
+536,Sclerotherapy,30,23.7,2.5,12,4,No,59,No,1, ,PPOS,8,2400,Dual trigger,39,6,5,Yes,4,2,2,2,0,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+537,Sclerotherapy,35,20.6,1.8,11,2,No,62,Yes,3, ,PPOS,7,1575,Dual trigger,40,6,5,Yes,4,2,2,2,0,Yes,1,0,0,Yes,No,No,Yes,Yes,Yes,No,No,No,No,No,36.6,2577,Cesarean
+538,Sclerotherapy,33,23.9,3,15,2,No,52,No,3, ,PPOS,10,2250,Dual trigger,35,10,8,Yes,6,3,2,2,0,Yes,2,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+539,Sclerotherapy,36,27.4,1.8,9,3,No,47,No,3, ,PPOS,12,2700,Dual trigger,37,8,7,Yes,6,3,2,1,1,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+540,Sclerotherapy,35,26.6,.5,5,0,No,42,No,2, ,PPOS,11,3300,Dual trigger,37,6,5,Yes,4,2,2,0,1,No,0,1,100,No,No,No,No,No, , , , , , , , , 
+541,Sclerotherapy,35,19.3,1.9,10,1,No,54,No,1, ,Antagonist,10,3000,Dual trigger,36,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,39.2,3479,Vaginal
+542,Sclerotherapy,29,22.2,2.7,13,3,No,34,No,3, ,PPOS,9,2700,Dual trigger,35,3,2,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,Yes,No,No, , , , , , , , , 
+543,Sclerotherapy,38,27.6,1.3,7,1,Yes,58,Yes,2, ,PPOS,9,2700,Dual trigger,37,4,3,Yes,2,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+544,Sclerotherapy,31,29.9,2.1,13,1,No,51,No,3, ,PPOS,14,4200,Dual trigger,35,6,5,No,4,2,1,1,0,Yes,1,0,0,No,No,No,No,No, , , , , , , , , 
+545,Sclerotherapy,42,26.4,.7,4,1,No,63,Yes,2, ,PPOS,10,2250,Dual trigger,35,6,5,Yes,4,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes, , , , , , ,38,3843,Cesarean
+546,Sclerotherapy,38,22.4,.6,3,1,No,30,No,1, ,Antagonist,12,3600,Dual trigger,35,3,2,Yes,1,1,1,0,1,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+547,Sclerotherapy,31,27.7,2.7,17,0,No,50,No,2, ,PPOS,11,2475,hCG trigger,35,7,6,No,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+548,Sclerotherapy,33,23.3,3.2,16,0,Yes,75,Yes,2, ,PPOS,9,2700,Dual trigger,40,5,4,Yes,3,2,2,1,1,Yes,0,0,0,Yes, ,No,Yes,Yes,No,No,No, , ,No,37.6,2917,Cesarean
+549,Sclerotherapy,30,27.8,2.4,9,6,No,56,No,4, ,PPOS,8,2400,Dual trigger,36,2,2,Yes,1,0,0,0,0,No,0,0,0,No,No,No,No,No, , , , , , , , , 
+550,Sclerotherapy,38,22.5,.8,3,1,No,51,No,3, ,PPOS,11,3300,Dual trigger,32,3,3,Yes,2,2,2,1,1,Yes,0,0,0,Yes,No,No,Yes,Yes,No,No,No,No,No,No,38.5,2388,Vaginal
+551,Sclerotherapy,36,18.7,2.4,13,4,No,48,No,2, ,PPOS,11,3300,Dual trigger,37,12,10,Yes,8,5,3,2,1,No,4,0,0,No,No,No,No,No, , , , , , , , , 
+552,Sclerotherapy,37,23.9,2.2,10,3,No,40,No,3, ,PPOS,9,2700,Dual trigger,32,7,6,Yes,4,2,2,1,1,Yes,0,0,0,No,No,No,No,No, , , , , , , , , 
+553,Sclerotherapy,36,28.4,1.5,7,1,Yes,48,Yes,3, ,PPOS,10,2250,Dual trigger,37,8,7,Yes,5,2,2,1,1,No,1,0,0,No,No,No,No,No, , , , , , , , , 
+554,Sclerotherapy,34,26.1,1.5,9,3,Yes,43,Yes,3, ,Antagonist,10,3000,Dual trigger,35,7,6,Yes,4,3,3,2,1,Yes,2,0,0,Yes,No,No,Yes,Yes, , , , , , ,37.7,3132,Cesarean

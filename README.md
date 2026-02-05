@@ -7,9 +7,6 @@ Repository contents
 Endometrioma_sclerotherapy_cystectomi_nointervention.csv
 An anonymised patient-level dataset used for the analyses reported in the associated manuscript.
 
-README.md
-Description of the dataset, its structure, and conditions of use.
-
 Dataset description
 
 The dataset includes demographic and clinical characteristics (such as age, body mass index, infertility duration, and infertility type), baseline ovarian reserve markers (including anti-Müllerian hormone levels and antral follicle count), and detailed characteristics of ovarian endometriomas (size, laterality, and number).
